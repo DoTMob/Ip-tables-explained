@@ -12,13 +12,17 @@
 Setting up the IP tables on a Linux based VPS. This is PHASE 1 of 5 docs on how to increase security on your VPN server  explained by 
 ***********************************
 
-███████╗██╗     ██╗ ██████╗███████╗
-██╔════╝██║     ██║██╔════╝██╔════╝
-███████╗██║     ██║██║     █████╗  
-╚════██║██║     ██║██║     ██╔══╝  
-███████║███████╗██║╚██████╗███████╗
-╚══════╝╚══════╝╚═╝ ╚═════╝╚══════╝
-                                   
+  ██████  ██▓     ██▓ ▄████▄  ▓█████ 
+▒██    ▒ ▓██▒    ▓██▒▒██▀ ▀█  ▓█   ▀ 
+░ ▓██▄   ▒██░    ▒██▒▒▓█    ▄ ▒███   
+  ▒   ██▒▒██░    ░██░▒▓▓▄ ▄██▒▒▓█  ▄ 
+▒██████▒▒░██████▒░██░▒ ▓███▀ ░░▒████▒
+▒ ▒▓▒ ▒ ░░ ▒░▓  ░░▓  ░ ░▒ ▒  ░░░ ▒░ ░
+░ ░▒  ░ ░░ ░ ▒  ░ ▒ ░  ░  ▒    ░ ░  ░
+░  ░  ░    ░ ░    ▒ ░░           ░   
+      ░      ░  ░ ░  ░ ░         ░  ░
+                     ░               
+
 ***********************************
 
 Executed by the root user running the bash or any other modern shell. Do not type commands on the remote system as it will disconnect your access... I’ve used RHEL 6.x, but the following command should work with any modern Linux distro that use the netfliter...
